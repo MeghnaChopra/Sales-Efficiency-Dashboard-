@@ -1,1 +1,3 @@
 # Sales-Efficiency-Dashboard-
+
+This Power BI project presents a comprehensive Sales Efficiency Dashboard designed to analyze performance across products, regions, and time. It leverages DAX measures to calculate KPIs, includes drill-through and drill-down functionality for detailed analysis, and uses custom visualizations like decomposition trees and gauge charts to enhance data storytelling. The dashboard features dynamic tooltips, conditional formatting, and KPI indicators for clearer insights, along with slicers and bookmarks for intuitive navigation and filters based on region, product, and time to support flexible data exploration.
